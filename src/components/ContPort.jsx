@@ -60,7 +60,19 @@ function ContPort() {
                     <img src="webdd.png" className='shadow-lg border-2'/>
                 </div>
                 <div>
-                    <a href="https://zamoraericjr.github.io/webdd.com/" target='_blank' className='text-sm text-blue-600'>https://https://zamoraericjr.github.io/webdd.com/</a>
+                    <a href="https://zamoraericjr.github.io/webdd.com/" target='_blank' className='text-sm text-blue-600'>https://zamoraericjr.github.io/webdd.com/</a>
+                </div>
+            </div>
+        </div>
+        <div className='flex justify-center w-full border1'>
+            <div className='flex flex-col m-5'>
+                <div className='font-bold'>Metto betting</div>
+                <div className='indent-8 text-sm'>This is the website of Metto where the Metto and Metto-Agent mobile applications can be dowloaded and installed in Android phones and where the events bettings updates (events for betting, results of events, dates when the events will be opened and closed, etc.) are posted regularly. <b>Created 01/2022</b></div>
+                <div>
+                    <img src="mettobetting.png" className='shadow-lg border-2'/>
+                </div>
+                <div>
+                    <a href="https://mettobetting.com/" target='_blank' className='text-sm text-blue-600'>https://mettobetting.com/</a>
                 </div>
             </div>
         </div>
