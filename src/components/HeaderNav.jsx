@@ -21,7 +21,7 @@ function HeaderNav({navSel, setNavSel}) {
                 </div>
                 : 
                 <div onClick={()=>setNavSel('portfolio')} className='w-full h-full nav flex items-center justify-center'>
-                    {'PORTFOLIO'}
+                    {'PROJECTS'}
                 </div>}
                 {/* <div className='nav w-full h-full'>
                     {'TESTIMONIES'}

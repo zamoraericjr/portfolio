@@ -6,7 +6,7 @@ function ContRes() {
         <div className='flex justify-center w-full border1'>
             <div className='flex flex-col m-5'>
                 <div className='text-blue-600 m-2'>
-                    <a href="https://mettobetting.com/wp-content/uploads/2023/09/resume-2023nwest-oldest.pdf">
+                    <a href="https://drive.google.com/open?id=1-qK9dU9ZT6kxx3qMjUgMzWhYzYfhRq3E&usp=drive_fs">
                         Download Resume
                     </a>    
                 </div>
@@ -21,7 +21,7 @@ function ContRes() {
         <div className='flex justify-center w-full border1'>
             <div className='flex flex-col m-5'>
             <div className='text-blue-600 m-2'>
-                    <a href="https://mettobetting.com/wp-content/uploads/2023/09/resume-2023nwest-oldest.pdf">
+                    <a href="https://drive.google.com/open?id=1-qK9dU9ZT6kxx3qMjUgMzWhYzYfhRq3E&usp=drive_fs">
                         Download Resume
                     </a>    
                 </div>
@@ -36,7 +36,7 @@ function ContRes() {
         <div className='flex justify-center w-full border1'>
             <div className='flex flex-col m-5'>
             <div className='text-blue-600 m-2'>
-                    <a href="https://mettobetting.com/wp-content/uploads/2023/09/resume-2023nwest-oldest.pdf">
+                    <a href="https://drive.google.com/open?id=1-qK9dU9ZT6kxx3qMjUgMzWhYzYfhRq3E&usp=drive_fs">
                         Download Resume
                     </a>    
                 </div>
@@ -51,7 +51,7 @@ function ContRes() {
         <div className='flex justify-center w-full border1'>
             <div className='flex flex-col m-5'>
             <div className='text-blue-600 m-2'>
-                    <a href="https://mettobetting.com/wp-content/uploads/2023/09/resume-2023nwest-oldest.pdf">
+                    <a href="https://drive.google.com/open?id=1-qK9dU9ZT6kxx3qMjUgMzWhYzYfhRq3E&usp=drive_fs">
                         Download Resume
                     </a>    
                 </div>
