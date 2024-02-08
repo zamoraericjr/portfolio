@@ -17,7 +17,7 @@ function HeaderNav({navSel, setNavSel}) {
                 
                 {navSel==='portfolio' ? 
                 <div className='w-full h-full nav flex items-center justify-center bg-sky-800'>
-                    {'PORTFOLIO'}
+                    {'PROJECTS'}
                 </div>
                 : 
                 <div onClick={()=>setNavSel('portfolio')} className='w-full h-full nav flex items-center justify-center'>
